@@ -47,7 +47,7 @@
     ],
     "home": [
       {
-        "title": "Popular",
+        "title": "New Games",
         "content": "blog",
         "url": "https://raw.githubusercontent.com/ye202/p30/main/recentuploads.json",
         "posisi": "atas"
