@@ -133,55 +133,55 @@
       {
         "title": "A",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=A&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/A.json",
         "posisi": "bawah"
       },
       {
         "title": "B",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=B&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/B.json",
         "posisi": "bawah"
       },
       {
         "title": "C",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=C&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/C.json",
         "posisi": "bawah"
       },
       {
         "title": "D",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=D&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/D.json",
         "posisi": "bawah"
       },
       {
         "title": "E",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=E&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/E.json",
         "posisi": "bawah"
       },
       {
         "title": "F",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=F&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/F.json",
         "posisi": "bawah"
       },
       {
         "title": "G",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=G&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/G.json",
         "posisi": "bawah"
       },
       {
         "title": "H-P",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=H-P&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/H-P.json",
         "posisi": "bawah"
       },
       {
         "title": "Q-Z",
         "content": "lewatinjson",
-        "url": "https://script.google.com/macros/s/AKfycbwvRlurPQ0nDCp_StgnybhG2Q8_CAdu4fw-4_V1Z8EMDaRosrc/exec?id=1gmtKNqPOkdlkjVy5PSJpFaPQao7vIM1afoxYfvGi3K4&sheet=Q-Z&action=readAll",
+        "url": "https://raw.githubusercontent.com/ye202/p30/main/Q-Z.json",
         "posisi": "bawah"
       }
     ],
