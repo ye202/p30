@@ -267,14 +267,6 @@
         "Category": "ALL , Compilation , "
       },
       {
-        "JUDUL": "Adventure Player (Japan)",
-        "URL_DOWNLOAD": "https://download.freeroms.com/psp_roms/a/adventure_player_(japan).zip",
-        "MB": "177.66 MB",
-        "URL_IMAGE": "https://raw.githubusercontent.com/haryandi/Asset-Projek-Android/Fake-Video-Call/GAMBAR/PSP1/AdventurePlayerJapan.jpg",
-        "MIROR": "https://mirror1.freeroms.com/psp_roms/a/adventure_player_(japan).zip",
-        "Category": "ALL"
-      },
-      {
         "JUDUL": "Adventures to Go!",
         "URL_DOWNLOAD": "https://dl3.hexrom.com/psp/Adventures_to_Go_%5Bhexrom.com%5D.zip",
         "MB": "61.6MB",
@@ -28226,14 +28218,7 @@
         "MIROR": "https://dl3.hexrom.com/psp/Buzz_Deutschlands_Superquiz_%5Bhexrom.com%5D.zip",
         "Category": "Misc"
       },
-      {
-        "JUDUL": "Adventure Player",
-        "URL_DOWNLOAD": "https://dl3.hexrom.com/psp/Adventure_Player_%5Bhexrom.com%5D.zip",
-        "MB": "169.2MB",
-        "URL_IMAGE": "https://hexrom.com/images/icon/n/Adventure%20Player.jpg",
-        "MIROR": "https://dl3.hexrom.com/psp/Adventure_Player_%5Bhexrom.com%5D.zip",
-        "Category": "Adventure"
-      },
+     
       {
         "JUDUL": "Space Invaders Extreme",
         "URL_DOWNLOAD": "https://dl3.hexrom.com/psp/Space_Invaders_Extreme_%5Bhexrom.com%5D.zip",
@@ -28444,4 +28429,5 @@
     ]
   }
 }
+
 
