@@ -23755,14 +23755,6 @@
         "Category": "Action, Role Playing"
       },
       {
-        "JUDUL": "To Love Ru – Doki Doki Rinkai Gakkou Hen",
-        "URL_DOWNLOAD": "https://dl3.hexrom.com/psp/To_Love_Ru_Doki_Doki_Rinkai_Gakkou_Hen_%5Bhexrom.com%5D.zip",
-        "MB": "638.3MB",
-        "URL_IMAGE": "https://hexrom.com/images/icon/n/To%20Love%20Ru%20-%20Doki%20Doki%20Rinkai%20Gakkou%20Hen.jpg",
-        "MIROR": "https://dl3.hexrom.com/psp/To_Love_Ru_Doki_Doki_Rinkai_Gakkou_Hen_%5Bhexrom.com%5D.zip",
-        "Category": "Adventure"
-      },
-      {
         "JUDUL": "Patapon 2 – Don-Chaka",
         "URL_DOWNLOAD": "https://dl3.hexrom.com/psp/Patapon_2_Don-Chaka_%5Bhexrom.com%5D.zip",
         "MB": "339.2MB",
@@ -28429,5 +28421,6 @@
     ]
   }
 }
+
 
 
