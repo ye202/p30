@@ -19619,14 +19619,6 @@
         "Category": "ALL"
       },
       {
-        "JUDUL": "Up Russia",
-        "URL_DOWNLOAD": "https://www.freeroms.com/rom/psp/up_russia.htm",
-        "MB": "301.04 MB",
-        "URL_IMAGE": "https://raw.githubusercontent.com/haryandi/Asset-Projek-Android/Fake-Video-Call/GAMBAR/PSP/UpRussia.jpg",
-        "MIROR": "https://www.freeroms.com/rom/psp/up_russia.htm",
-        "Category": "ALL"
-      },
-      {
         "JUDUL": "Up Spain",
         "URL_DOWNLOAD": "https://www.freeroms.com/rom/psp/up_spain.htm",
         "MB": "302.64 MB",
@@ -28413,6 +28405,7 @@
     ]
   }
 }
+
 
 
 
