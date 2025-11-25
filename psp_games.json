@@ -1731,14 +1731,6 @@
         "Category": "ALL , Sport , "
       },
       {
-        "JUDUL": "Brandish - The Dark Revenant (Japan)",
-        "URL_DOWNLOAD": "https://download.freeroms.com/psp_roms/b/brandish_-_the_dark_revenant_(japan).zip",
-        "MB": "270.11 MB",
-        "URL_IMAGE": "https://raw.githubusercontent.com/haryandi/Asset-Projek-Android/Fake-Video-Call/GAMBAR/PSP1/Brandish-TheDarkRevenantJapan.jpg",
-        "MIROR": "https://mirror1.freeroms.com/psp_roms/b/brandish_-_the_dark_revenant_(japan).zip",
-        "Category": "ALL"
-      },
-      {
         "JUDUL": "Brave Story - Aratanaru Tabibito (Japan)",
         "URL_DOWNLOAD": "https://download.freeroms.com/psp_roms/b/brave_story_-_aratanaru_tabibito_(japan).zip",
         "MB": "147.39 MB",
@@ -28421,6 +28413,7 @@
     ]
   }
 }
+
 
 
 
