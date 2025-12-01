@@ -55,79 +55,79 @@
       {
         "title": "Action",
         "content": "Action",
-        "url": "Action",
+        "url": "action",
         "posisi": "atas"
       },
       {
         "title": "Adventure",
         "content": "Adventure",
-        "url": "Adventure",
+        "url": "adventure",
         "posisi": "atas"
       },
       {
         "title": "Simulation",
         "content": "Simulation",
-        "url": "Simulation",
+        "url": "simulation",
         "posisi": "atas"
       },
       {
         "title": "Strategy",
         "content": "Strategy",
-        "url": "Strategy",
+        "url": "strategy",
         "posisi": "atas"
       },
       {
         "title": "Shooter",
         "content": "Shooter",
-        "url": "Shooter",
+        "url": "shooter",
         "posisi": "atas"
       },
       {
         "title": "Sport",
         "content": "Sport",
-        "url": "Sport",
+        "url": "sport",
         "posisi": "atas"
       },
       {
         "title": "Fighting",
         "content": "Fighting",
-        "url": "Fighting",
+        "url": "fighting",
         "posisi": "atas"
       },
       {
         "title": "Educational",
         "content": "Educational",
-        "url": "Educational",
+        "url": "educational",
         "posisi": "atas"
       },
       {
         "title": "Board Game",
         "content": "Board Game",
-        "url": "Board Game",
+        "url": "boardgame",
         "posisi": "atas"
       },
       {
         "title": "Puzzle",
         "content": "Puzzle",
-        "url": "Puzzle",
+        "url": "puzzle",
         "posisi": "atas"
       },
       {
         "title": "Trun Based Tactics",
         "content": "Trun Based Tactics",
-        "url": "Trun Based Tactics",
+        "url": "turnbasedtactics",
         "posisi": "atas"
       },
       {
         "title": "Compilation",
         "content": "Compilation",
-        "url": "Compilation",
+        "url": "compilation",
         "posisi": "atas"
       },
       {
         "title": "Card Game",
         "content": "Card Game",
-        "url": "Card Game",
+        "url": "card",
         "posisi": "atas"
       },
       {
@@ -27982,6 +27982,7 @@
     ]
   }
 }
+
 
 
 
